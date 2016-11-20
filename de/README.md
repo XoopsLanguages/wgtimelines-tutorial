@@ -14,12 +14,12 @@
 
 ## Basisinformation zum Modul
 
-wgTimelines ist ein einfaches Modul zur Präsentation ihres Teams.
+wgTimelines ist ein einfaches Modul zur Präsentation ihres Zeitreihen/Chroniken.
 
-Sie können verschiedene Teams und Personen definieren. Danach können Sie die Personen mit einem oder mehreren Teams verknüpfen. Die Basisinformationen (z.B. EMail-Adresse) der Person werden dann bei allen Teams angezeigt.<br/>
-Zusätzlich können weitere Felder erstellt werden, die dann bei bestimmten Kombinationen Team/Mitglieder verwendet werden, wie z.B. Aufgaben innerhalb des Teams, Position im Team, usw.
+Sie können verschiedene Zeitreihen definieren. Danach können Sie diesen Zeitreihen beliebig viele Einträge hinzufügen.
 
-Alle Templates sind voll responsive.
+Fast alle Templates sind voll responsive. 
+
 >![](./assets/info/important.png) **Achtung:** Dieses Modul arbeitet nur in Kombination mit einem Bootstrap-Theme, oder sie müssen die Bootstrap-Dateien manuell in ihrem Theme einbinden.
 
 ![0dashboard.png](assets/0dashboard.png)<br/>
