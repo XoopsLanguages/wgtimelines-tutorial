@@ -10,3 +10,12 @@ On the dashboard tab 'Templates' you see a list of the existing templates with t
 ![](../assets/2admin_templates_edit.png)
 
 Depending on the template you can set various options like image style, color and so one.
+
+Explanation of symbols:
+![](../assets/newtemplate.png) This is a new template
+
+![](../assets/newversion.png) There is a new version of this template available. Click on the symbol to update.
+
+![](../assets/notsupported.png) This template isn't supported anymore by the developer's team. It is recommended to use only supported templates.
+
+![](../assets/reset.png) You can reset the template to default values.

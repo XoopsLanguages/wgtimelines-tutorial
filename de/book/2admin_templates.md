@@ -10,3 +10,12 @@ Auf den Registerblatt 'Vorlagen' sehen Sie eine Auflistung aller bereits festgel
 ![](../assets/2admin_templates_edit.png)
 
 Abhängig von der Vorlage können unterschiedliche Optionen, wie z.B. Bildstyle, Farbe, usw. geändert werden.
+
+Symbolerläuterungen:
+![](../assets/newtemplate.png) Eine neue Vorlage ist verfügbar
+
+![](../assets/newversion.png) Eine neue Version dieser Vorlage ist verfügbar. Zum Aktualisieren klicken Sie auf das Symbol.
+
+![](../assets/notsupported.png) Diese Vorlage wird vom Entwicklerteam nicht mehr unterstützt. Es wird empfohlen, nur unterstützte Vorlage zu verwenden.
+
+![](../assets/reset.png) Sie können die Standardwerte der Voralge wiederherstellen.
