@@ -23,8 +23,17 @@ You can define the number of items for lists in user area.
 #### Show breadcrumbs-navigation
 Please decide, whether a breadcrumbs-navigation should be shown on user sides.
 
+#### Show rating
+Define, whether a rating of the items should be possible and shown
+
+#### Groups with permission to rate
+Please define the groups, which have the permission to rate a timeline item
+
 #### Show name timeline
 Please decide, whether the name of the timeline should be shown on the top of the timeline
+
+#### Timeline description
+Define, whether and where the description should be shown
 
 #### Max size
 Please define the maximum file size foruploads file. You have to enter the value for bytes (10485760 = 1 MB).
@@ -40,3 +49,6 @@ Allow Facebook comments in the single page
 
 #### Disqus comments
 Allow Disqus comments in the single page
+
+#### Start page
+Define, what should be shown when calling the module (index.php)

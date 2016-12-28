@@ -2,7 +2,7 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module wgTimelines
-#### Version: 1.00 RC1
+#### Version: 1.06
 #### for XOOPS 2.5.7/XOOPS 2.5.8
 #### for PHP 5.5, 5.6 and 7.0
 

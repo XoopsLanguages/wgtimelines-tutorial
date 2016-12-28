@@ -23,7 +23,10 @@ Bitte den Inhalt für Ihren Eintrag eingeben
 Sie können Ihrem Eintrag ein Bild hinzufügen (optional)
 
 #### Datum
-Bitte das Datum für den Eintrag eingeben (optional)
+Bitte das Datum für den Eintrag eingeben (optional). Entsprechend der Vorlage bzw. den Einstellungen bei der jeweiligen Vorlage wird dies angezeigt oder nicht.
 
 #### Jahr
-Bitte das Jahr für den Eintrag eingeben (optional)
+Bitte das Jahr für den Eintrag eingeben (optional). Entsprechend der Vorlage bzw. den Einstellungen bei der jeweiligen Vorlage wird dies angezeigt oder nicht.
+
+#### Gelesen
+Dies zeigt Ihnen, wie oft dieser Eintrag bereits gelesen wurde,.

@@ -13,11 +13,21 @@ Die Reihenfolge der Zeitreihen kann mittels Drag&Drop geändert werden.
 #### Name
 Bitte Name für Zeitreihe definieren
 
+#### Beschreibung
+Sie können für jede Zeitreihe eine Beschreibung erfassen. Diese wird dann je nach Einstellung (siehe auch [Einstellung](2preferences.md)) angezeigt.
+
+#### Bild
+Sie können für jede Zeitreihe zusätzlich ein Logo/Bild hochladen.
+
 #### Vorlage
 Bitte wählen Sie die gewünschte Vorlage für Ihre Zeitreihe
 
 #### Sortierung
 Bitte Sortierreihenfolge für die Anzeige aus Userseite definieren
+
+#### Zeichenbegrenzung
+Sofern eine Zeichenbegrenzung festgelegt wurde, werden auf der Userseite maximal diese Anzahl an Zeichen angezeigt. Bei Überschreitung der Zeichenbegrenzung wird ein "Mehr lesen"-Link angezeigt.
+0 bedeutet kein Limit.
 
 #### Online
 Bitte festlegen, ob die Zeitreihe bereits auf der Userseite angezeigt werden soll.

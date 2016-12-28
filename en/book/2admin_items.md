@@ -23,7 +23,11 @@ Please enter a content for the item
 You can add one image to your item (optional)
 
 #### Date
-Please enter the date for the item (optional)
+Please enter the date for the item (optional). Depending on the template and the settings in the template it will be shown or not.
 
 #### Year
-Please enter the year for the item (optional)
+Please enter the year for the item (optional). Depending on the template and the settings in the template it will be shown or not.
+
+#### Reads
+This shows, how often this item was read already.
+

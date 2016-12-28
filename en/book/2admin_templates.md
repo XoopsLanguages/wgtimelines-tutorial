@@ -11,7 +11,22 @@ On the dashboard tab 'Templates' you see a list of the existing templates with t
 
 Depending on the template you can set various options like image style, color and so one.
 
-Explanation of symbols:
+#### Name
+Name of template
+
+#### Description
+Short description of this template
+
+#### Options
+Overview about current settings of the options
+
+#### Version
+Version of your template
+
+#### Autor
+Autor of the template
+
+#### Explanation of symbols:
 ![](../assets/newtemplate.png) This is a new template
 
 ![](../assets/newversion.png) There is a new version of this template available. Click on the symbol to update.

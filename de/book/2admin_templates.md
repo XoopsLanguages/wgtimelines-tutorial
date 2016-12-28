@@ -11,7 +11,22 @@ Auf den Registerblatt 'Vorlagen' sehen Sie eine Auflistung aller bereits festgel
 
 Abhängig von der Vorlage können unterschiedliche Optionen, wie z.B. Bildstyle, Farbe, usw. geändert werden.
 
-Symbolerläuterungen:
+#### Name
+Name der Vorlage
+
+#### Beschreibung
+Kurze Beschreibung der Vorlage
+
+#### Optionen
+Übersicht über die aktuellen Einstellungen der Optionen
+
+#### Version
+Version der Vorlage
+
+#### Author
+Author der Vorlage
+
+#### Symbolerläuterungen:
 ![](../assets/newtemplate.png) Eine neue Vorlage ist verfügbar
 
 ![](../assets/newversion.png) Eine neue Version dieser Vorlage ist verfügbar. Zum Aktualisieren klicken Sie auf das Symbol.
