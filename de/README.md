@@ -18,7 +18,7 @@ wgTimelines ist ein einfaches Modul zur Präsentation ihres Zeitreihen/Chroniken
 
 Sie können verschiedene Zeitreihen definieren. Danach können Sie diesen Zeitreihen beliebig viele Einträge hinzufügen.
 
-Fast alle Templates sind voll responsive. 
+Fast alle Templates sind voll responsive (für alle Medien geeignet). 
 
 >![](./assets/info/important.png) **Achtung:** Dieses Modul arbeitet nur in Kombination mit einem Bootstrap-Theme, oder sie müssen die Bootstrap-Dateien manuell in ihrem Theme einbinden.
 
@@ -41,4 +41,4 @@ Fast alle Templates sind voll responsive.
 
 Alle Derivate sind Teil von XOOPS Project <a rel="xoops" href="http://www.xoops.org">www.xoops.org</a>
 
-##Bedienungsanleitung Version: 1.1
+##Bedienungsanleitung Version: 1.2

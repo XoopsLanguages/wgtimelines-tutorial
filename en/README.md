@@ -18,7 +18,7 @@ This module is for presentation of timelines.
 
 You can defined various timelines and decide between different styles (html, bootstrap timelines, slider,...) for displaying them.
 
-Allmost all templates on user side are fully responsive.
+Almost all templates on user side are fully responsive.
 
 **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
@@ -42,4 +42,4 @@ Allmost all templates on user side are fully responsive.
 
 All derivative works are to be attributed to XOOPS Project (www.xoops.org)
 
-##Tutorial Version: 1.1
+##Tutorial Version: 1.2

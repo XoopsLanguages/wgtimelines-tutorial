@@ -5,7 +5,7 @@ Sie können beliebig viele Einträge definieren, die Sie einer bestimmten Zeitre
 #### 2.2.1 Liste der Einträge
 Auf den Registerblatt 'Einträge' sehen Sie eine Auflistung aller bereits existierenden Einträge.
 ![](../assets/2admin_items_list.png)
-Die Reihung der Einträge kann mit Drag&Drop geändert werden. Ob die Reihung ansprechend der Anzeige oder nach dem Datum erfolgt, muss bei den Einstellungen der Zeitreihe definiert werden (siehe auch [Zeitreihen](2admin_timelines.md)
+Die Reihung der Einträge kann mit Drag&Drop geändert werden. Ob die Reihung entsprechend der Anzeige oder nach dem Datum erfolgt, muss bei den Einstellungen der Zeitreihe definiert werden (siehe auch [Zeitreihen](2admin_timelines.md)
 
 #### 2.2.2 Einträge hinzufügen/bearbeiten
 ![](../assets/2admin_items_add.png)
@@ -28,5 +28,11 @@ Bitte das Datum für den Eintrag eingeben (optional). Entsprechend der Vorlage b
 #### Jahr
 Bitte das Jahr für den Eintrag eingeben (optional). Entsprechend der Vorlage bzw. den Einstellungen bei der jeweiligen Vorlage wird dies angezeigt oder nicht.
 
+#### Icon
+Bitte das Icon für den Knotenpunkt des Eintrages auswählen (optional). Entsprechend der Vorlage bzw. den Einstellungen bei der jeweiligen Vorlage wird dies angezeigt oder nicht.
+
 #### Gelesen
-Dies zeigt Ihnen, wie oft dieser Eintrag bereits gelesen wurde,.
+Dies zeigt Ihnen, wie oft dieser Eintrag bereits gelesen wurde.
+
+#### Online
+Bitte legen Sie fest, ob dieser Eintrag auf der Userseite schon angezeigt werden soll.

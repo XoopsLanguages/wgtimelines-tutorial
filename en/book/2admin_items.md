@@ -28,6 +28,11 @@ Please enter the date for the item (optional). Depending on the template and the
 #### Year
 Please enter the year for the item (optional). Depending on the template and the settings in the template it will be shown or not.
 
+#### Icon
+Please select an icon, which should be used on the badge for the item (optional). Depending on the template and the settings in the template it will be shown or not.
+
 #### Reads
 This shows, how often this item was read already.
 
+#### Online
+Define, whether the item should be already displayed on user side.
