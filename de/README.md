@@ -30,6 +30,7 @@ Fast alle Templates sind voll responsive (für alle Medien geeignet).
 * [(De-)Installation](book/1install.md)
 * [Administrationsbereich](book/2administration.md)
 * [Einstellungen](book/3preferences.md)
+* [Bedienungshinweise](book/4operations.md)
 * [Benutzerbereich](book/5userside.md)
 * [Blöcke](book/6blocks.md)
 * [Templates](book/7templates.md)

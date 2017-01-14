@@ -33,4 +33,4 @@ Author der Vorlage
 
 ![](../assets/notsupported.png) Diese Vorlage wird vom Entwicklerteam nicht mehr unterstützt. Es wird empfohlen, nur unterstützte Vorlage zu verwenden.
 
-![](../assets/reset.png) Sie können die Standardwerte der Voralge wiederherstellen.
+![](../assets/reset.png) Sie können die Standardwerte der Vorlage wiederherstellen.
