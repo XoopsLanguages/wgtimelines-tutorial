@@ -42,4 +42,4 @@ Almost all templates on user side are fully responsive.
 
 All derivative works are to be attributed to XOOPS Project (www.xoops.org)
 
-##Tutorial Version: 1.2
+####Tutorial Version: 1.2
