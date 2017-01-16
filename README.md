@@ -20,7 +20,7 @@ You can defined various timelines and decide between different styles (html, boo
 
 Almost all templates on user side are fully responsive.
 
-**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
+>![](en/assets/info/important.png) **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
 ![0dashboard1.png](en/assets/0dashboard.png)<br/>
 *Figure 1: Main view of the wgTimelines Module (Admin side)*

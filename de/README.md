@@ -42,4 +42,4 @@ Fast alle Templates sind voll responsive (für alle Medien geeignet).
 
 Alle Derivate sind Teil von XOOPS Project <a rel="xoops" href="http://www.xoops.org">www.xoops.org</a>
 
-##Bedienungsanleitung Version: 1.2
+####Bedienungsanleitung Version: 1.2
