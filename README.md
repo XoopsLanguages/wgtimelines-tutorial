@@ -1,8 +1,8 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module wgTimelines
-#### Version: 1.00 RC1
+#### Version: 1.06
 #### for XOOPS 2.5.7/XOOPS 2.5.8
 #### for PHP 5.5, 5.6 and 7.0
 
@@ -18,7 +18,7 @@ This module is for presentation of timelines.
 
 You can defined various timelines and decide between different styles (html, bootstrap timelines, slider,...) for displaying them.
 
-Allmost all templates on user side are fully responsive.
+Almost all templates on user side are fully responsive.
 
 **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
@@ -35,7 +35,6 @@ Allmost all templates on user side are fully responsive.
 * [Blocks](en/book/6blocks.md)
 * [Templates](en/book/7templates.md)
 * [Module Credits](en/book/9credits.md)
-* 
 
 ##License:
 
@@ -43,4 +42,4 @@ Allmost all templates on user side are fully responsive.
 
 All derivative works are to be attributed to XOOPS Project (www.xoops.org)
 
-#####Tutorial Version: 1.2
+####Tutorial Version: 1.2
