@@ -1,5 +1,6 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
+test
 
 # Module wgTimelines
 #### Version: 1.06
